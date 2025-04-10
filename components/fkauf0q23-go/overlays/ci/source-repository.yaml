@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fkauf0q23-go-repository
+spec:
+  url: https://github.com/xjiangorg/fkauf0q23-go
